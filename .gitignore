@@ -1,0 +1,18 @@
+# .gitignore for C# projects
+bin/
+obj/
+*.user
+*.suo
+*.nuget
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.DS_Store
+UserSettings/
+*.vscode/
+*.sln.iml
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
